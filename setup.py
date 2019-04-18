@@ -35,7 +35,7 @@ def read(*rel_names):
 
 
 setup(
-    name='bigit',
+    name='nigit',
     version='0.8.1',
     url='https://github.com/kennetanti/nigit',
     cmdclass = {'build_py': build_py},
